@@ -11,6 +11,7 @@ python huffman.py lena
 ```
 ### Outputs
 <img src="https://github.com/eugene18-art/huffman/blob/master/2020-08-02%2012_13_11-Figure%201.png?raw=true"/>
+
 ```
 completed huffman encode compression in 3.5245704650878906 seconds.
 completed huffman compression decode in 4.457077503204346 seconds.
