@@ -5,7 +5,6 @@ import sys
 import os
 import time
 from collections import deque
-import sys
 sys.setrecursionlimit(2000)
 
 class HuffmanTreeCell:
